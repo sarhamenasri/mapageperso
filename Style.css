@@ -1,0 +1,80 @@
+h1{
+    font-size: 30px;
+    text-align: center;
+    font-family: arial;
+    color: rgb(56, 170, 161);
+    }
+    
+    #hp1{
+        color: black;
+        font-size: 30px;
+    }
+    
+img {
+    border-radius: 50%;
+    text-align: center;
+}
+
+#paraph1 {
+     font-style: italic;
+     font-family: arial;
+     text-align: justify;
+     color: gray;
+     }
+
+#paraph2 {
+    font-style: normal;
+    font-family: arial;
+    text-align: justify;
+    
+}
+
+
+h2{
+    font-size: 20px;
+    color:gray;
+    font-family: arial;
+    text-align: justify;
+
+}
+
+.un {
+    list-style: circle;
+  }
+.rouge {
+    color: red;
+    text-align: left;
+}
+.vert {
+    color: #60E61D ;
+    text-align: left;
+    font-family: arial;
+}
+
+html, body{
+    background-color: #CCCCCC;
+    font-family: Calibri;
+
+}
+article {
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+#photo {
+    border-radius: 0%;
+    justify-content: left;
+}
+
+footer {
+    justify-content: center;
+    padding: 5px;
+    background-color: #cecece;
+    color: rgb(0, 0, 0);
+    font-family: arial;
+}
+#blocpage {
+    width: 620px;
+    padding-top: 10px; padding-bottom: 30px; padding-left: 10%; padding-right: 10%;
+    background-color: white;
